@@ -1,0 +1,5 @@
+{
+  "name": "MedVLM Web",
+  "description": "A comprehensive medical AI dashboard for Pneumonia detection, report generation, and synthetic data augmentation, replicating the MedVLM system functionality.",
+  "requestFramePermissions": []
+}
